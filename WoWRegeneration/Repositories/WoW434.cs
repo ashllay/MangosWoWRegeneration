@@ -11,7 +11,7 @@ namespace WoWRegeneration.Repositories
 
         public string GetBaseUrl()
         {
-            return "http://blizzard.vo.llnwd.net/o16/content/wow-pod-retail/EU/15050.direct/";
+            return "http://dist.blizzard.com.edgesuite.net/wow-pod-retail/EU/15050.direct/";
         }
 
         public string GetMFilName()
